@@ -19,7 +19,7 @@ for(var i = 8; i < 18; i++){
         $("#"+id).css("background-color","green");
         $("#"+id).css("color","white");
     }
-}
+} 
 
 function loadSaved(){
     var id = 8;
